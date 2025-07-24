@@ -1,0 +1,11 @@
+body {
+    padding-bottom: 100px; 
+  }
+  .carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+  }
+  .card-img-top {
+    height: 250px;
+    object-fit: cover;
+  }
