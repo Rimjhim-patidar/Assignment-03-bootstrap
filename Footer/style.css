@@ -1,0 +1,12 @@
+footer {
+    background-color: brown;
+    color: white;
+    padding: 40px 20px;
+  }
+  .footer-box h5 {
+    margin-bottom: 15px;
+  }
+  .footer-box p {
+    font-size: 14px;
+    color: #ccc;
+  }
